@@ -1,0 +1,10 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="files/steven_foltz_dinglab_photo.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+Add content here, like links to [Ding Lab](dinglab.wustl.edu). 
+
+Add link to CV [here](files/most_recent_resume.pdf).
