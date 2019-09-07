@@ -5,6 +5,12 @@
 
 <img src="files/ding_lab_website_profile_picture.jpg" alt="Pleased to meet you!" style="width:25%; border:10px solid white; margin-right: 20px" align="left">
 
-Add content here, like links to [Ding Lab](https://dinglab.wustl.edu). 
+### Summary
+I am a bioinformatics researcher with expertise analyzing large-scale cancer genomics sequencing data. I am driven by a passion for delivering robust and reproducible research for the benefit of society. My values include: teamwork, inclusion, open science, and leading by example.
 
-Add link to CV [here](files/most_recent_cv.pdf).
+### Purpose
+
+I will graduate with my Ph.D. from Washington University in St. Louis in Fall 2019 and then relocate to northern Delaware. For the next stage of my career, I seek to build on my experience with cancer genomics, data analysis, and team leadership in [Li Ding's lab at WashU.](https://dinglab.wustl.edu)
+
+### CV and Resume
+Please find my CV [here](files/most_recent_cv.pdf), and my resume [here](files/most_recent_resume.pdf).
