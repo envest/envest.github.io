@@ -11,7 +11,7 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/envest
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/steven-foltz-438061139/
+      href: https://www.linkedin.com/in/steven-foltz
 output:
   html_document:
     theme: paper
