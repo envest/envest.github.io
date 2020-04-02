@@ -10,7 +10,7 @@ I am a bioinformatics researcher with expertise analyzing large-scale cancer gen
 
 ### Purpose
 
-I will graduate with my Ph.D. from Washington University in St. Louis in Spring 2020 and then relocate to northern Delaware. For the next stage of my career, I seek to build on my experience with cancer genomics, data analysis, and team leadership gained in [Li Ding's lab at WashU.](https://dinglab.wustl.edu)
+I graduated with my Ph.D. from Washington University in St. Louis in March 2020 and have relocated to northern Delaware. For the next stage of my career, I seek to build on my experience with cancer genomics, data analysis, and team leadership gained in [Li Ding's lab at WashU.](https://dinglab.wustl.edu){target="_blank"}
 
 ### CV
-Please find my CV [here](files/most_recent_cv.pdf). I am happy to provide a resume upon request. Thanks!
+Please find my CV [here](files/most_recent_cv.pdf){target="_blank"}. I am happy to provide a resume upon request. Thanks!

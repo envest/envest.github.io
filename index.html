@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>index.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -86,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +234,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +246,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -322,11 +310,11 @@ $(document).ready(function () {
 </div>
 <div id="purpose" class="section level3">
 <h3>Purpose</h3>
-<p>I will graduate with my Ph.D. from Washington University in St. Louis in Spring 2020 and then relocate to northern Delaware. For the next stage of my career, I seek to build on my experience with cancer genomics, data analysis, and team leadership gained in <a href="https://dinglab.wustl.edu">Li Ding’s lab at WashU.</a></p>
+<p>I graduated with my Ph.D. from Washington University in St. Louis in March 2020 and have relocated to northern Delaware. For the next stage of my career, I seek to build on my experience with cancer genomics, data analysis, and team leadership gained in <a href="https://dinglab.wustl.edu" target="_blank">Li Ding’s lab at WashU.</a></p>
 </div>
 <div id="cv" class="section level3">
 <h3>CV</h3>
-<p>Please find my CV <a href="files/most_recent_cv.pdf">here</a>. I am happy to provide a resume upon request. Thanks!</p>
+<p>Please find my CV <a href="files/most_recent_cv.pdf" target="_blank">here</a>. I am happy to provide a resume upon request. Thanks!</p>
 </div>
 
 
@@ -346,6 +334,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
